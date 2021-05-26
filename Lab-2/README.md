@@ -32,29 +32,29 @@
 
 1. За допомогою лабораторного макету побудувати випадковий неорієнтований граф `G={7,15}` та записати його матрицю суміжності.
  
- ![граф](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc5.png)
+ ![граф](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.4.png)
  
- ![матриця суміжності](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc6.png)
+ ![матриця суміжності](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.5.png)
  
  i.Як зміниться топологія графа (структурні зв’язки), якщо циклічно зсунуту вправо 2 стовпці у матриці суміжностей?
-  ![граф](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc7.png)
+  ![граф](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.6.png)
  
-![матриця суміжності](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc8.png)
+![матриця суміжності](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.7.png)
 
 ii. Як зміниться топологія графа (структурні зв’язки),
 
 а) Якщо всі елементи над діагоналлю перетворити в 1? 
 
 
-   ![vffg](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc9.png)
+   ![vffg](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.8.png)
    
-  ![fg](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc10.png)
+  ![fg](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.9.png)
 
 б) Якщо всі елементи під діагоналлю перетворити в 0?
 
- ![vffg](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc11.png)
+ ![vffg](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.10.png)
  
-![граф] (https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc12.png)
+![граф](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.11.png)
 	 
 1. За допомогою лабораторного макету побудувати випадковий орієнтований граф `G={5,10}` та записати його матрицю відповідностей (інцедентності).
 
