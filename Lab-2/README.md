@@ -6,8 +6,8 @@
 
 1. Записати (придумати) матрицю суміжності орієнтованого графа `G={5,9}`. Ввести її у лабораторний макет та побудувати візуальне представлення графа.
    
-   ![матриця суміжності](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc1.png )
-   ![граф](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc2.png)
+   ![матриця суміжності](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.1.png )
+   ![граф](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.2.png)
    
     1. Чи є у побудованому графі ізольовані вершини або незв’язні компоненти? *Tак* - назвіть їх; *Hі* - які ребра потрібно видалити щоб вони утворились? 
     
@@ -27,9 +27,8 @@
 
     6. Побудувати доповнення (обернений) графа `G`.
 
-    ![vffg](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc4.png)
+    ![vffg](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.3.png)
 
-    ![fg](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc3.png)
 
 1. За допомогою лабораторного макету побудувати випадковий неорієнтований граф `G={7,15}` та записати його матрицю суміжності.
  
