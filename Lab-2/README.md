@@ -58,9 +58,9 @@ ii. Як зміниться топологія графа (структурні 
 	 
 1. За допомогою лабораторного макету побудувати випадковий орієнтований граф `G={5,10}` та записати його матрицю відповідностей (інцедентності).
 
-![alt](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc13.png)
+![alt](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.12.png)
 
-![alt](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc14.png)
+![alt](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.13.png)
 
 	1. Як з матриці відповідностей можна визначити ступінь кожної вершини?
 
@@ -76,15 +76,15 @@ ii. Як зміниться топологія графа (структурні 
     
     **Граф G**
 
-    ![матриця суміжності G](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc15.png)
+    ![матриця суміжності G](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.14.png)
 
-    ![граф G](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc16.png)
+    ![граф G](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.15.png)
 
     **Граф M**
 
-    ![граф M](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc17.png)
+    ![граф M](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.16.png)
 
-    ![матриця суміжності M](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc18.png)
+    ![матриця суміжності M](https://github.com/Yurii-2001/Yurii---Lab---TOTK---2021-/blob/main/Lab-2/l2.17.png)
 
 
     2. Графи орієнтовані чи неорієнтовані? 
